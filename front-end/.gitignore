@@ -1,3 +1,6 @@
+.env
+assets
+
 # Logs
 logs
 *.log
